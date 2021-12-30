@@ -11,6 +11,9 @@
     ],
     "android": {
       "package": "com.hdck007.uniquevyapaari"
+    },
+    "ios": {
+      "bundleIdentifier": "sumedh-ios"
     }
   }
 }
